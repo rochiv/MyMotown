@@ -1,12 +1,13 @@
 # **MyMoTown**
 ###### WVU CS230 Group 3, Spring 2022
+###### Instructor: Dr. Tom Devine
 &nbsp;
 [MyMoTown](https://mymotown-5cc38.web.app/home) is a webapp where you can find and share social activities, sporting events, or whatever else may be going on in Morgantown.
 
 ## **Installation**
 **Note**: You do not need to run a local instance of MyMoTown to use it. 
 - This project was generated using AngularCLI 13.2.5.
-- Run `git clone https://github.com/tdevine1/WVU_CS230_2022.01_Group03` to clone a copy of MyMoTown.
+- Run `git clone https://github.com/rochiv/WVU_CS230_2022.01_Group03-main.git` to clone a copy of MyMoTown.
 - You may need to `cd` into the `MyMoTown` directory to run the project locally.
 - Run `npm i` to install all the required dependencies.
 - Run `ng build` to build/compile the project.
@@ -39,17 +40,7 @@ How to create a post:
 - Enter information such as the event name, description, etc
 - And you're done!
 
-## **Contribute**
-You might be able to pull our code from our [GitHub](https://github.com/tdevine1/WVU_CS230_2022.01_Group03) and see how we wrote each page/component.
-View our KanBan Board / our general workflow from this semester [here](https://trello.com/b/ybMwOwHw/kanban-board).
-
 &nbsp;
-
-__KanBan Board Priority Key__:  
-🟩 : Low  
-🟨 : Medium-Low  
-🟧 : Medium-High  
-🟥 : High  
 
 ## **Authors:**
 Rohit Chivukula, Nicholas Kennedy, Carter Kiss, Sarth Patel, Justin Scott, Dylan Smith
